@@ -12,7 +12,14 @@ Le prototype permet :
 
 - Capteur de température 
 
+
+
+
 - Arduino Uno R3
+
+
+
+![Screenshot](arduino3.png)
 - 2 Force Sensor
 - 3 kΩ Résistance
 - 2*10 kΩ Résistance
