@@ -36,3 +36,9 @@ Le prototype permet :
 - Écran LCD 16x2 
 
 ![Screenshot](lcd.png)
+
+
+
+## DEMO
+
+![Screenshot](demo.gif)
