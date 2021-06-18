@@ -10,18 +10,29 @@ Le prototype permet :
 
   ## Composant technique du compteur 
 
-- Capteur de température 
-
-
-
-
 - Arduino Uno R3
 
-
-
 ![Screenshot](arduino3.png)
+
+
+- Capteur de température 
+
+![Screenshot](temp.png)
+
+
 - 2 Force Sensor
-- 3 kΩ Résistance
-- 2*10 kΩ Résistance
+
+
+![Screenshot](forces sensor.png .png)
+
+- Résistance
+
+![Screenshot](res.png)
+
 - Capteur de lumière ambiante 
+
+![Screenshot](lum.png)
+
 - Écran LCD 16x2 
+
+![Screenshot](lcd.png)
