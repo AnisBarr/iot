@@ -23,7 +23,7 @@ Le prototype permet :
 - 2 Force Sensor
 
 
-![Screenshot](forces_sensor.png .png)
+![Screenshot](forces_sensor.png)
 
 - Résistance
 
